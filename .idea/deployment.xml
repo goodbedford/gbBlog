@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="gbblog">
+    <serverData>
+      <paths name="gbblog">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Users/goodbedford/WebstormProjects/gbBlog" local="$PROJECT_DIR$" web="" />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
