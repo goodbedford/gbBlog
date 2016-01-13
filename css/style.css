@@ -1,5 +1,51 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+a.project-link {
+  text-decoration: none;
+}
+.header {
+  color: black;
+  background-color: rgba(100,200,100, 0.5);
+  padding: 0 0 0 10px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius:  50px;
+}
 .highlight{
-    background-color: yellow;
+  background-color: yellow;
+}
+
+.project-container {
+  /*padding: 5px;*/
+}
+
+.project-img {
+  height: 300px;
+  width: 300px;
+}
+.project-li {
+  list-style: none;
+  padding: 5px 5px;
+  font-size: 0.8em;
+}
+.project-li-end {
+  list-style: none;
+  padding: 5px 0 0 15px;
+  font-size: 0.8em;
+}
+.project-title {
+  font-size: 2em;
+  width: 75%;
+  position: relative;
+  bottom: 50px;
+  padding: 0 0 0 10px;
+  color: white;
+  background-color: rgba(0,0,0, 0.5);
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+
 }
 section{
     margin: 10px 0 10px;
